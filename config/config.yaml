@@ -1,4 +1,2 @@
 
-personInfoLogPath: hdfs://namenode:9000/data/person-info.parquet
-personIdListLogPath: hdfs://namenode:9000/data/person-id-list.parquet
-ageAnalysisPath: hdfs://namenode:9000/data/analysis-person-info.parquet
+bai1: hdfs://namenode:9000/bai1/output4.txt
